@@ -1,2 +1,2 @@
 # HSTL
-Data structure library for personal projects
+Standard Template Library for personal projects
